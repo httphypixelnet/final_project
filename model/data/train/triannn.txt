@@ -1,0 +1,6 @@
+This is a test file. 
+
+In order to connect to the internet, you can use the nmcli device command to list all devices.
+
+To make a directory use the mkdir commmand, with mkdir -p making recursive dirs
+Install packages using the apt-get install command with the syntax being `sudo apt-get install -y <package>`. 
